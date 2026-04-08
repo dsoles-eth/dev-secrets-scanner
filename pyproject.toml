@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "dev-secrets-scanner"
+version = "0.1.0"
+description = "A lightweight CLI tool that scans local repositories for exposed secrets and API keys before deployment."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+keywords = ["python", "click", "regex", "pyyaml", "toml"]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/{GITHUB_USERNAME}/dev-secrets-scanner"
