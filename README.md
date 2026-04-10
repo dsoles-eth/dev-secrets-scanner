@@ -1,6 +1,6 @@
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub stars](https://img.shields.io/github/stars/your-username/dev-secrets-scanner)
+![GitHub stars](https://img.shields.io/github/stars/dsoles-eth/dev-secrets-scanner)
 
 # Dev Secrets Scanner
 
